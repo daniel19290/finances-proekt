@@ -1,0 +1,39 @@
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\appsettings.json
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Building Microservice in .NET Core.exe
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Building Microservice in .NET Core.deps.json
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Building Microservice in .NET Core.runtimeconfig.json
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Building Microservice in .NET Core.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Building Microservice in .NET Core.pdb
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\Building Microservice in .NET Core.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\Building Microservice in .NET Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\Building Microservice in .NET Core.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\Building Microservice in .NET Core.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\Building Microservice in .NET Core.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\Building Microservice in .NET Core.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\Building Microservice in .NET Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\scopedcss\bundle\Building Microservice in .NET Core.styles.css
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\Building Microservice in .NET Core.csproj.CopyComplete
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\Building Microservice in .NET Core.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\refint\Building Microservice in .NET Core.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\Building Microservice in .NET Core.pdb
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\Building Microservice in .NET Core.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\ref\Building Microservice in .NET Core.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\IronXL.dll
