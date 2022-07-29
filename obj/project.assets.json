@@ -45,15 +45,6 @@
           "lib/netstandard2.0/Humanizer.dll": {}
         }
       },
-      "IronXL.Excel/2022.7.7362": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/IronXL.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/IronXL.dll": {}
-        }
-      },
       "Microsoft.CSharp/4.7.0": {
         "type": "package",
         "compile": {
@@ -465,28 +456,6 @@
         "lib/netstandard2.0/Humanizer.dll",
         "lib/netstandard2.0/Humanizer.xml",
         "logo.png"
-      ]
-    },
-    "IronXL.Excel/2022.7.7362": {
-      "sha512": "4TVRKjAnj0Xc5OOTnseaZj6LurBGkGEfEP949Pyk6pYapXU3UK+x2+SNEsN9Z0O7ocY2Pu50nFnTlAzQgV6rQA==",
-      "type": "package",
-      "path": "ironxl.excel/2022.7.7362",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "EULA.txt",
-        "docs/README.md",
-        "images/iron-logo-128.png",
-        "ironxl.excel.2022.7.7362.nupkg.sha512",
-        "ironxl.excel.nuspec",
-        "lib/net45/IronXL.dll",
-        "lib/net45/IronXL.dll.config",
-        "lib/net45/IronXL.xml",
-        "lib/netstandard2.0/IronXL.dll",
-        "lib/netstandard2.0/IronXL.dll.config",
-        "lib/netstandard2.0/IronXL.xml",
-        "readme-setup.txt",
-        "readme.txt"
       ]
     },
     "Microsoft.CSharp/4.7.0": {
@@ -1097,7 +1066,6 @@
       "AutoMapper >= 11.0.1",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 11.0.0",
       "CsvHelper >= 28.0.1",
-      "IronXL.Excel >= 2022.7.7362",
       "Microsoft.EntityFrameworkCore >= 6.0.6",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.6",
       "Microsoft.EntityFrameworkCore.Relational >= 6.0.6",
@@ -1155,10 +1123,6 @@
           "CsvHelper": {
             "target": "Package",
             "version": "[28.0.1, )"
-          },
-          "IronXL.Excel": {
-            "target": "Package",
-            "version": "[2022.7.7362, )"
           },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",

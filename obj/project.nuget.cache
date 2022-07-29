@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6IdlbuRMEMWt+TQVsxL/u0C1sCShkNWxG5NHpFRoQ3ZVoqqemKxBPTG79qFM3uceV0vBkowQ8OiZvYQT+7ycNw==",
+  "dgSpecHash": "GKYigdzn0C0WzPrVpeOCRRLCRb/urhyODaeIN95Vv9tw4fici/bvdFPN5iIINTpA/TEql1uc3oQKKcVxxz2FNQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Daniel\\Desktop\\Building Microservice in .NET Core\\Building Microservice in .NET Core.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,6 @@
     "C:\\Users\\Daniel\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\Daniel\\.nuget\\packages\\csvhelper\\28.0.1\\csvhelper.28.0.1.nupkg.sha512",
     "C:\\Users\\Daniel\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\Daniel\\.nuget\\packages\\ironxl.excel\\2022.7.7362\\ironxl.excel.2022.7.7362.nupkg.sha512",
     "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.6\\microsoft.entityframeworkcore.6.0.6.nupkg.sha512",
     "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.6\\microsoft.entityframeworkcore.abstractions.6.0.6.nupkg.sha512",
