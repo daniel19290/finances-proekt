@@ -1,3 +1,0 @@
-# finances-proekt
-finances-repository
-//

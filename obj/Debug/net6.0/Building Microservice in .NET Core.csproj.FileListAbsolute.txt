@@ -1,0 +1,122 @@
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\appsettings.json
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Building Microservice in .NET Core.exe
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Building Microservice in .NET Core.deps.json
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Building Microservice in .NET Core.runtimeconfig.json
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Building Microservice in .NET Core.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Building Microservice in .NET Core.pdb
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\Building Microservice in .NET Core.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\Building Microservice in .NET Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\Building Microservice in .NET Core.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\Building Microservice in .NET Core.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\Building Microservice in .NET Core.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\Building Microservice in .NET Core.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\Building Microservice in .NET Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\scopedcss\bundle\Building Microservice in .NET Core.styles.css
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\Building Microservice in .NET Core.csproj.CopyComplete
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\Building Microservice in .NET Core.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\refint\Building Microservice in .NET Core.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\Building Microservice in .NET Core.pdb
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\Building Microservice in .NET Core.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\obj\Debug\net6.0\ref\Building Microservice in .NET Core.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\Daniel\Desktop\Personal Finance Management\obj\Debug\net6.0\Building Microservice in .NET Core.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Personal Finance Management\obj\Debug\net6.0\Building Microservice in .NET Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Personal Finance Management\obj\Debug\net6.0\Building Microservice in .NET Core.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Personal Finance Management\obj\Debug\net6.0\Building Microservice in .NET Core.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Personal Finance Management\obj\Debug\net6.0\Building Microservice in .NET Core.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Personal Finance Management\obj\Debug\net6.0\Building Microservice in .NET Core.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Daniel\Desktop\Personal Finance Management\obj\Debug\net6.0\Building Microservice in .NET Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daniel\Desktop\Personal Finance Management\obj\Debug\net6.0\Building Microservice in .NET Core.dll
+C:\Users\Daniel\Desktop\Personal Finance Management\obj\Debug\net6.0\refint\Building Microservice in .NET Core.dll
+C:\Users\Daniel\Desktop\Personal Finance Management\obj\Debug\net6.0\Building Microservice in .NET Core.pdb
+C:\Users\Daniel\Desktop\Personal Finance Management\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Daniel\Desktop\Personal Finance Management\bin\Debug\net6.0\appsettings.json
+C:\Users\Daniel\Desktop\Personal Finance Management\bin\Debug\net6.0\Building Microservice in .NET Core.csproj.nuget.dgspec.json
+C:\Users\Daniel\Desktop\Personal Finance Management\bin\Debug\net6.0\launch.json
+C:\Users\Daniel\Desktop\Personal Finance Management\bin\Debug\net6.0\tasks.json
+C:\Users\Daniel\Desktop\Personal Finance Management\bin\Debug\net6.0\Building Microservice in .NET Core.exe
+C:\Users\Daniel\Desktop\Personal Finance Management\bin\Debug\net6.0\Building Microservice in .NET Core.deps.json
+C:\Users\Daniel\Desktop\Personal Finance Management\bin\Debug\net6.0\Building Microservice in .NET Core.runtimeconfig.json
+C:\Users\Daniel\Desktop\Personal Finance Management\bin\Debug\net6.0\Building Microservice in .NET Core.dll
+C:\Users\Daniel\Desktop\Personal Finance Management\bin\Debug\net6.0\Building Microservice in .NET Core.pdb
+C:\Users\Daniel\Desktop\Personal Finance Management\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Daniel\Desktop\Personal Finance Management\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Daniel\Desktop\Personal Finance Management\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\Daniel\Desktop\Personal Finance Management\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Daniel\Desktop\Personal Finance Management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Daniel\Desktop\Personal Finance Management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Daniel\Desktop\Personal Finance Management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Daniel\Desktop\Personal Finance Management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Daniel\Desktop\Personal Finance Management\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Daniel\Desktop\Personal Finance Management\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Daniel\Desktop\Personal Finance Management\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Daniel\Desktop\Personal Finance Management\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Daniel\Desktop\Personal Finance Management\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Daniel\Desktop\Personal Finance Management\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Daniel\Desktop\Personal Finance Management\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Daniel\Desktop\Personal Finance Management\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Daniel\Desktop\Personal Finance Management\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Daniel\Desktop\Personal Finance Management\obj\Debug\net6.0\scopedcss\bundle\Building Microservice in .NET Core.styles.css
+C:\Users\Daniel\Desktop\Personal Finance Management\obj\Debug\net6.0\Building Microservice in .NET Core.csproj.CopyComplete
+C:\Users\Daniel\Desktop\Personal Finance Management\obj\Debug\net6.0\Building Microservice in .NET Core.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\Personal Finance Management\obj\Debug\net6.0\ref\Building Microservice in .NET Core.dll
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\Building Microservice in .NET Core.csproj.nuget.dgspec.json
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\launch.json
+C:\Users\Daniel\Desktop\Building Microservice in .NET Core\bin\Debug\net6.0\tasks.json
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\bin\Debug\net6.0\appsettings.Development.json
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\bin\Debug\net6.0\appsettings.json
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\bin\Debug\net6.0\launch.json
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\bin\Debug\net6.0\tasks.json
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\bin\Debug\net6.0\Building Microservice in .NET Core.exe
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\bin\Debug\net6.0\Building Microservice in .NET Core.deps.json
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\bin\Debug\net6.0\Building Microservice in .NET Core.runtimeconfig.json
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\bin\Debug\net6.0\Building Microservice in .NET Core.dll
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\bin\Debug\net6.0\Building Microservice in .NET Core.pdb
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\bin\Debug\net6.0\AutoMapper.dll
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\bin\Debug\net6.0\CsvHelper.dll
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\bin\Debug\net6.0\Humanizer.dll
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\bin\Debug\net6.0\Npgsql.dll
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\obj\Debug\net6.0\Building Microservice in .NET Core.csproj.AssemblyReference.cache
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\obj\Debug\net6.0\Building Microservice in .NET Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\obj\Debug\net6.0\Building Microservice in .NET Core.AssemblyInfoInputs.cache
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\obj\Debug\net6.0\Building Microservice in .NET Core.AssemblyInfo.cs
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\obj\Debug\net6.0\Building Microservice in .NET Core.csproj.CoreCompileInputs.cache
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\obj\Debug\net6.0\Building Microservice in .NET Core.MvcApplicationPartsAssemblyInfo.cs
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\obj\Debug\net6.0\Building Microservice in .NET Core.MvcApplicationPartsAssemblyInfo.cache
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\obj\Debug\net6.0\staticwebassets.build.json
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\obj\Debug\net6.0\staticwebassets.development.json
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\obj\Debug\net6.0\scopedcss\bundle\Building Microservice in .NET Core.styles.css
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\obj\Debug\net6.0\Building Microservice in .NET Core.csproj.CopyComplete
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\obj\Debug\net6.0\Building Microservice in .NET Core.dll
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\obj\Debug\net6.0\refint\Building Microservice in .NET Core.dll
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\obj\Debug\net6.0\Building Microservice in .NET Core.pdb
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\obj\Debug\net6.0\Building Microservice in .NET Core.genruntimeconfig.cache
+D:\Chrome Downloads\finances-proekt-master (1)\finances-proekt-master\obj\Debug\net6.0\ref\Building Microservice in .NET Core.dll
